@@ -1,6 +1,6 @@
-# 微信 iLink Bot API 开发文档
+# 微信 iLink Bot API /微信clawbot开发文档
 
-微信 iLink（智联）协议是微信官方开放的 Bot API，允许开发者通过 HTTP/JSON 接口接入个人微信，实现消息收发功能。
+微信 iLink（智联）协议是微信官方开放的 Bot API，允许开发者通过微信clawbot插件接入个人微信，实现消息收发推送功能。
 
 ## 目录
 
